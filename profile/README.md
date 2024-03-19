@@ -1,5 +1,5 @@
 # Kaxiras Research Group   
-Department of Physics and School of Engineering and Applied Sciences   
+*Department of Physics and School of Engineering and Applied Sciences*   
 Harvard University
 
 ## Our group at a glance  
@@ -17,5 +17,5 @@ new length scale by the twist angle produces localization, correlations, and int
 Our group was part of the collaboration that demonstrated correlated electron behavior and superconductivity 
 in twisted bilayer graphene.
 
-More information and publications can be found on the Kaxiras Group Website: https://scholar.harvard.edu/efthimios_kaxiras   
+More information and publications can be found on the [Kaxiras Group Website](https://scholar.harvard.edu/efthimios_kaxiras "Kaxiras Research Group").   
 
